@@ -5,4 +5,4 @@ public class Hello {
 		System.out.println("헬로 웰컴투더 자바월드");
 	}//끝 메인
 }
-//asd
+//asdasd
